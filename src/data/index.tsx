@@ -6,7 +6,7 @@ import { jsOrange, midBlue, green, pink } from '../theme/colors';
 
 import staticData from './json/static.json';
 import contactData from './json/contact.json';
-import sweData from './json/planlar.json';
+import planlarData from './json/planlar.json';
 import baData from './json/ba.json';
 import pkg from '../../package.json';
 
