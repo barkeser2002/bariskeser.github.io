@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "title": "Websitelerim ve Görev dağılımım",
+    "subtitle": "Yüzdelik dilimde ve planlı ilerleme",
+    "info": "Bunları yapmamın sebebi daha iyi bir şekilde projelerime gün belirlemek ve daha planlı gitmek istediğim içindir. :D"
+  },
+  "semesters": [
+    {
+      "name": "Siteler",
+      "dates": {
+        "start": "2022-01-01",
+        "end": "2022-10-15"
+      },
+      "courses": [
+        {
+          "courseName": "bariskeser.com",
+          "sections": [
+            {
+              "title": "Websitemin temellerini atmak",
+              "url": "https://bariskeser.com",
+              "progress": {
+                "completed": 4,
+                "total": 8
+              }
+            },
+            {
+              "title": "Hizmete sunmak",
+              "url": "https://bariskeser.com",
+              "progress": {
+                "completed": 3,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "film sitemi full bitirmek",
+          "sections": [
+            {
+              "title": "film.bariskeser.com",
+              "url": "https://film.bariskeser.com",
+              "progress": {
+                "completed": 3,
+                "total": 12
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "Bakım sitemi düzgünleştirmek",
+          "sections": [
+            {
+              "title": "bakim.bariskeser.com",
+              "url": "https://bakim.bariskeser.com",
+              "progress": {
+                "completed": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

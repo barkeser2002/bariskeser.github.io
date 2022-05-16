@@ -6,7 +6,7 @@ import { jsOrange, midBlue, green, pink } from '../theme/colors';
 
 import staticData from './json/static.json';
 import contactData from './json/contact.json';
-import sweData from './json/swe.json';
+import sweData from './json/planlar.json';
 import baData from './json/ba.json';
 import pkg from '../../package.json';
 
@@ -27,20 +27,12 @@ export const pages: PageLink[] = [
     ),
   },
   {
-    name: 'Software Engineering',
-    url: '/swe',
+    name: 'Planlar',
+    url: '/planlar',
     icon: 'graduation-cap',
     isInternal: true,
-    badge: `${calculateDiplomaProgress(sweData, 0)}%`,
-    comp: () => <Diploma diplomaData={sweData} />,
-  },
-  {
-    name: 'Business Administration',
-    url: '/ba',
-    icon: 'graduation-cap',
-    isInternal: true,
-    badge: `${calculateDiplomaProgress(baData, 0)}%`,
-    comp: () => <Diploma diplomaData={baData} />,
+    badge: `${calculateDiplomaProgress(planlarData, 0)}%`,
+    comp: () => <Diploma diplomaData={planlarData} />,
   },
 ];
 
@@ -53,24 +45,10 @@ export const tabs: TabLink[] = [
     mdFileName: 'skills',
   },
   {
-    name: '.educationrc',
-    url: '/education',
-    icon: 'university',
-    color: midBlue,
-    mdFileName: 'education',
-  },
-  {
     name: 'projects.config',
     url: '/projects',
     icon: 'sliders-h',
     color: green,
     mdFileName: 'projects',
-  },
-  {
-    name: 'certificates.sass',
-    url: '/certificates',
-    icon: ['fab', 'sass'],
-    color: pink,
-    mdFileName: 'certificates',
   },
 ];
