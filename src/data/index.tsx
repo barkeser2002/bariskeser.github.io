@@ -22,7 +22,7 @@ export const pages: PageLink[] = [
       <Greeter
         staticData={staticData}
         contactData={contactData}
-        repoUrl="https://github.com/caglarturali/caglarturali.github.io"
+        repoUrl="https://github.com/barkeser2002/bariskeser.github.io"
       />
     ),
   },
