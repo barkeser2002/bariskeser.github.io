@@ -12,7 +12,7 @@ export interface SEOProps {
 const SEO: React.FC<SEOProps> = ({
   title,
   description,
-  lang = 'en',
+  lang = 'tr',
   meta = [],
 }) => {
   const metaDescription = description || metadata.description;

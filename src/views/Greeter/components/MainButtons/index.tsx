@@ -30,10 +30,10 @@ const MainButtons: React.FC<MainButtonsProps> = ({ contactData, repoUrl }) => {
         attr: 'followers',
       },
       href: `https://github.com/${username}`,
-      title: `Follow @${username} on GitHub`,
+      title: `Beni Github'ta takip et @${username}`,
       icon: ['fab', 'github'],
       size: 'lg',
-      text: `Follow @${username}`,
+      text: `Takip Et @${username}`,
     },
     // Stargazers button
     {
@@ -42,10 +42,10 @@ const MainButtons: React.FC<MainButtonsProps> = ({ contactData, repoUrl }) => {
         attr: 'stargazers_count',
       },
       href: repoUrl,
-      title: `Star ${username}/${repo} on GitHub`,
+      title: `Favorilere ekle ${username}/${repo}`,
       icon: 'star',
       size: 'sm',
-      text: 'Star',
+      text: 'yıldız',
     },
   ];
 
@@ -61,10 +61,10 @@ const MainButtons: React.FC<MainButtonsProps> = ({ contactData, repoUrl }) => {
       <div>
         <ButtonLink
           href={mainContact.url}
-          title={`Find me on ${mainContact.name}`}
+          title={`Beni burda bulabilirsin ${mainContact.name}`}
           icon={mainContact.icon as IconProp}
           size="lg"
-          text="Contact Me"
+          text="Beni Burda bulabilirsin"
         />
       </div>
     </div>
