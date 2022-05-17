@@ -45,7 +45,7 @@ const MainButtons: React.FC<MainButtonsProps> = ({ contactData, repoUrl }) => {
       title: `Favorilere ekle ${username}/${repo}`,
       icon: 'star',
       size: 'sm',
-      text: 'yıldız',
+      text: 'Favorilerine ekle',
     },
   ];
 
