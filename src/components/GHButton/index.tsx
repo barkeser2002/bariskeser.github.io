@@ -9,8 +9,8 @@ import { buildRecordObject, isRecordUsable } from '../../utils';
 
 export interface GHButtonProps extends ButtonLinkProps {
   resource: {
-    endpoint: string;
-    attr: string;
+    endpoint: 'https://api.github.com/users/barkeser2002',
+    attr: 'followers',
   };
 }
 
