@@ -5,9 +5,9 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/caglarturali/caglarturali.github.io"
+    "url": "https://github.com/barkeser2002/bariskeser.github.io"
   },
-  "homepage": "https://turali.js.org",
+  "homepage": "https://new.bariskeser.com",
   "license": "GNU GPLv3",
   "scripts": {
     "start": "react-scripts start",
