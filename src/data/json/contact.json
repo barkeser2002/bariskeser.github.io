@@ -19,8 +19,8 @@
   },
   {
     "name": "Discord",
-    "url": "https://discord.gg/ex7ZATCvpu",
+    "url": "https://discord.gg/royalnetwork",
     "icon": ["fab", "discord"],
-    "isMain": false
+    "isMain": true
   }
 ]

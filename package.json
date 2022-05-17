@@ -1,8 +1,8 @@
 {
-  "name": "developer-portfolio-app",
+  "name": "bariskeser.github.io",
   "version": "2.0.0",
-  "description": "VS Code/Atom One Dark inspired developer portfolio app.",
-  "private": true,
+  "description": "bariskeser.github.io",
+  "private": false,
   "repository": {
     "type": "git",
     "url": "https://github.com/barkeser2002/bariskeser.github.io"
