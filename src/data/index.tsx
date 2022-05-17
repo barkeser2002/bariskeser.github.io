@@ -14,7 +14,7 @@ import { calculateDiplomaProgress } from '../utils';
 
 export const pages: PageLink[] = [
   {
-    name: 'Home',
+    name: 'Anasayfa',
     url: '/',
     icon: 'home',
     isInternal: true,
@@ -29,7 +29,7 @@ export const pages: PageLink[] = [
   {
     name: 'Planlar',
     url: '/planlar',
-    icon: 'graduation-cap',
+    icon: 'fa-solid fa-wrench',
     isInternal: true,
     badge: `${calculateDiplomaProgress(planlarData, 0)}%`,
     comp: () => <Diploma diplomaData={planlarData} />,
@@ -38,15 +38,15 @@ export const pages: PageLink[] = [
 
 export const tabs: TabLink[] = [
   {
-    name: 'skills.js',
-    url: '/skills',
+    name: 'Beceriler.js',
+    url: '/beceriler',
     icon: ['fab', 'js'],
     color: jsOrange,
     mdFileName: 'skills',
   },
   {
-    name: 'projects.config',
-    url: '/projects',
+    name: 'Projeler.config',
+    url: '/projeler',
     icon: 'sliders-h',
     color: green,
     mdFileName: 'projects',

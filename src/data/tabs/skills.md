@@ -1,8 +1,8 @@
 ### Teknik Bilgilerim
 
 - Web Development (End-to-End)
-- App Development
 - Web Design
+- App Development
 
 ### Genelde kullandığım diller
 

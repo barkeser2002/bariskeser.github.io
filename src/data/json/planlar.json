@@ -19,7 +19,15 @@
               "title": "Websitemin temellerini atmak",
               "url": "https://bariskeser.com",
               "progress": {
-                "completed": 4,
+                "completed": 7,
+                "total": 8
+              }
+            },
+            {
+              "title": "Tamamıyla react olarak tekrar tasarlamak",
+              "url": "https://bariskeser.com",
+              "progress": {
+                "completed": 8,
                 "total": 8
               }
             },
@@ -40,7 +48,7 @@
               "title": "film.bariskeser.com",
               "url": "https://film.bariskeser.com",
               "progress": {
-                "completed": 3,
+                "completed": 0,
                 "total": 12
               }
             }
@@ -53,8 +61,59 @@
               "title": "bakim.bariskeser.com",
               "url": "https://bakim.bariskeser.com",
               "progress": {
+                "completed": 5,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "İleriye dönük planlar",
+      "dates": {
+        "start": "2022-01-01",
+        "end": "2024-01-20"
+      },
+      "courses": [
+        {
+          "courseName": "shop.bariskeser.com",
+          "sections": [
+            {
+              "title": "Websitesini bütünüyle satış için kullanmak",
+              "url": "https://shop.bariskeser.com",
+              "progress": {
+                "completed": 3,
+                "total": 10
+              }
+            },
+            {
+              "title": "Tamamıyla tema işlevlerini değiştirerek sıfırdan yapmak",
+              "url": "https://shop.bariskeser.com",
+              "progress": {
+                "completed": 2,
+                "total": 10
+              }
+            },
+            {
+              "title": "Hizmete sunmak",
+              "url": "https://shop.bariskeser.com",
+              "progress": {
+                "completed": 6,
+                "total": 10
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "Hayatımdaki Öncelikleri Değiştirmek.",
+          "sections": [
+            {
+              "title": "İş hayatına girip, düzene oturtmak.",
+              "url": "https://new.bariskeser.com",
+              "progress": {
                 "completed": 0,
-                "total": 4
+                "total": 12
               }
             }
           ]
