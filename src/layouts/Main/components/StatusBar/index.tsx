@@ -25,12 +25,14 @@ const StatusBar: React.FC = () => {
       </a>
 
       <span>
+      <a href="https://bariskeser.com/barisking" rel="noopener noreferrer" target="_self">
         <FontAwesomeIcon
           className={classes.icon}
           icon="smile"
           size="sm"
           inverse
         />
+        </a>
       </span>
     </footer>
   );
