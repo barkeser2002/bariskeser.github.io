@@ -29,7 +29,7 @@ export const pages: PageLink[] = [
   {
     name: 'Planlar',
     url: '/planlar',
-    icon: 'bookmark',
+    icon: 'readme',
     isInternal: true,
     badge: `${calculateDiplomaProgress(planlarData, 0)}%`,
     comp: () => <Diploma diplomaData={planlarData} />,
