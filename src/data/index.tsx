@@ -45,10 +45,24 @@ export const tabs: TabLink[] = [
     mdFileName: 'skills',
   },
   {
+    name: '.educationrc',
+    url: '/education',
+    icon: 'university',
+    color: midBlue,
+    mdFileName: 'education',
+  },
+  {
     name: 'projects.config',
     url: '/projects',
     icon: 'sliders-h',
     color: green,
     mdFileName: 'projects',
+  },
+  {
+    name: 'certificates.sass',
+    url: '/certificates',
+    icon: ['fab', 'sass'],
+    color: pink,
+    mdFileName: 'certificates',
   },
 ];
