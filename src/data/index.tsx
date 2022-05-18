@@ -42,13 +42,13 @@ export const tabs: TabLink[] = [
     url: '/beceriler',
     icon: ['fab', 'js'],
     color: jsOrange,
-    mdFileName: 'skills',
+    mdFileName: 'beceriler',
   },
   {
     name: 'Projeler.config',
     url: '/projeler',
     icon: 'sliders-h',
     color: green,
-    mdFileName: 'projects',
+    mdFileName: 'projeler',
   },
 ];
