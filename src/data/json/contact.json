@@ -1,7 +1,7 @@
 [
   {
     "name": "Whatsapp",
-    "url": "https://api.whatsapp.com/send?phone=+905050239108",
+    "url": "https://api.whatsapp.com/send?phone=905050239108",
     "icon": ["fab", "whatsapp"],
     "isMain": false
   },
