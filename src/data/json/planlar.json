@@ -48,7 +48,7 @@
               "title": "film.bariskeser.com",
               "url": "https://film.bariskeser.com",
               "progress": {
-                "completed": 0,
+                "completed": 8,
                 "total": 12
               }
             }
@@ -61,7 +61,7 @@
               "title": "bakim.bariskeser.com",
               "url": "https://bakim.bariskeser.com",
               "progress": {
-                "completed": 5,
+                "completed": 6,
                 "total": 6
               }
             }
@@ -83,7 +83,7 @@
               "title": "Websitesini bütünüyle satış için kullanmak",
               "url": "https://shop.bariskeser.com",
               "progress": {
-                "completed": 3,
+                "completed": 4,
                 "total": 10
               }
             },
@@ -112,7 +112,7 @@
               "title": "İş hayatına girip, düzene oturtmak.",
               "url": "https://new.bariskeser.com",
               "progress": {
-                "completed": 0,
+                "completed": 1,
                 "total": 12
               }
             }
