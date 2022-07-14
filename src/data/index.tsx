@@ -51,4 +51,11 @@ export const tabs: TabLink[] = [
     color: green,
     mdFileName: 'projeler',
   },
+  {
+    name: 'Status.yml',
+    url: '/status',
+    icon: 'rss',
+    color: green,
+    mdFileName: 'status',
+  },
 ];
