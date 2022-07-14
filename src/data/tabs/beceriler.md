@@ -1,28 +1,28 @@
 ### Teknik Bilgilerim
 
-- Web Development (End-to-End)
-- Web Design
-- App Development
+- Web Geliştirme (Uçtan Uca)
+- Web Tasarım
+- Uygulama Geliştirme
 
 ### Genelde kullandığım diller
 
-- In modern times:
-  - Python
-  - JavaScript/TypeScript (2+ years)
+- Modern zamanlarda:
+  - Python (3+ Yıl)
+  - JavaScript/TypeScript (2+ Yıl)
     - React.js
     - Node.js
     - MongoDB
-  - Golang (yeni başladım)
-- In ancient times:
-  - Java (~1 year)
-  - C#/.NET (3+ month)
-  - PHP/MySQL (~4 years)
+  - Golang (3+ Ay)
+- Antik çağlarda:
+  - Java (3+ Yıl)
+  - C#/.NET (3+ Ay)
+  - PHP/MySQL (~4 Yıl)
 
 ### Tercihlerim 🙏
 
-- [Debian derivatives](https://www.debian.org/) || [Fedora](https://getfedora.org/) 🐧
-- [Zshell](https://en.wikipedia.org/wiki/Z_shell) ([Oh My Zsh](https://ohmyz.sh/)) 💻
-- [VSCode](https://code.visualstudio.com/) ¯\\_(ツ)_/¯
+- [Debian ve Alternativleri](https://www.debian.org/) || [Arch ve Alternativleri](https://archlinux.org/) 🐧
+- ([Oh My Zsh](https://ohmyz.sh/)) 💻
+- [VSCode](https://code.visualstudio.com/) [Atom](https://atom.io/) ¯\\_(ツ)_/¯
 
 ### İlgimi çeken şeyler 👌
 
