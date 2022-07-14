@@ -54,7 +54,7 @@ export const tabs: TabLink[] = [
   {
     name: 'Status.yml',
     url: '/status',
-    icon: 'rss',
+    icon: ['fab', 'buffer'],
     color: green,
     mdFileName: 'status',
   },
