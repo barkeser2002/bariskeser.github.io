@@ -19,7 +19,7 @@
               "title": "Websitemin temellerini atmak",
               "url": "https://bariskeser.com",
               "progress": {
-                "completed": 7,
+                "completed": 8,
                 "total": 8
               }
             },
@@ -42,20 +42,20 @@
           ]
         },
         {
-          "courseName": "film sitemi full bitirmek",
+          "courseName": "film sitemi full bitirmek (bitti https://baboflix.xyz)",
           "sections": [
             {
-              "title": "film.bariskeser.com",
-              "url": "https://film.bariskeser.com",
+              "title": "baboflix.xyz",
+              "url": "https://baboflix.xyz",
               "progress": {
-                "completed": 8,
+                "completed": 12,
                 "total": 12
               }
             }
           ]
         },
         {
-          "courseName": "Bakım sitemi düzgünleştirmek",
+          "courseName": "Bakım sitemi düzgünleştirmek (bitti)",
           "sections": [
             {
               "title": "bakim.bariskeser.com",
