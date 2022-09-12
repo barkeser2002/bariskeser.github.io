@@ -1,0 +1,2 @@
+(this["webpackJsonpbariskeser.github.io"]=this["webpackJsonpbariskeser.github.io"]||[]).push([[3],{166:function(e,i,s){e.exports=s.p+"static/media/beceriler.02efba2e.md"}}]);
+//# sourceMappingURL=3.b4420a7b.chunk.js.map
