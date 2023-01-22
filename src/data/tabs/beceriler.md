@@ -7,16 +7,17 @@
 ### Genelde kullandığım diller
 
 - Modern zamanlarda:
-  - Python (3+ Yıl)
-  - JavaScript/TypeScript (2+ Yıl)
+  - Python (4+ Yıl)
+  - JavaScript/TypeScript (3+ Yıl)
     - React.js
     - Node.js
     - MongoDB
-  - Golang (3+ Ay)
+  - Golang (5+ Ay)
 - Antik çağlarda:
-  - Java (3+ Yıl)
+  - Java (4+ Yıl)
   - C#/.NET (3+ Ay)
-  - PHP/MySQL (~4 Yıl)
+  - PHP/MySQL (~5 Yıl)
+  - Ruby (2+ Yıl)
 
 ### Tercihlerim 🙏
 
