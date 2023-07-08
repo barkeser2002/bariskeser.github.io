@@ -3,8 +3,8 @@
  */
 import React, { useEffect, useState } from 'react';
 import ReactMarkdown from 'react-markdown';
-import Container from '../Container';
 import RenderHtml from 'react-native-render-html';
+import Container from '../Container';
 import { createUseStyles } from 'react-jss';
 import styles from './styles';
 
@@ -31,7 +31,8 @@ const MDTab: React.FC<MDTabProps> = ({ fileName }) => {
 
   return (
     <Container seo={{ title: fileName }}>
-        <RenderHtml contentWidth={width} source={source} />{contents}
+      <RenderHtml source={contents} />
+      <ReactMarkdown className={classes.mdpage} source={contents} />
     </Container>
   );
 };
