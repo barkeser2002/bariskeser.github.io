@@ -2,7 +2,7 @@ import React from 'react';
 import Greeter from '../views/Greeter';
 import Diploma from '../views/Diploma';
 import { PageLink, TabLink } from '../models';
-import { jsOrange, green } from '../theme/colors';
+import { jsOrange, midBlue, red, purple } from '../theme/colors';
 
 import staticData from './json/static.json';
 import contactData from './json/contact.json';
@@ -46,21 +46,21 @@ export const tabs: TabLink[] = [
     name: 'Projeler.config',
     url: '/projeler',
     icon: 'sliders-h',
-    color: green,
+    color: purple,
     mdFileName: 'projeler',
   },
   {
     name: 'Status.yml',
     url: '/status',
     icon: ['fab', 'buffer'],
-    color: green,
+    color: midBlue,
     mdFileName: 'status',
   },
   {
     name: 'bagis.pack',
     url: '/bagis',
     icon: ['fab', 'npm'],
-    color: green,
+    color: red,
     mdFileName: 'bagis',
   },
 ];

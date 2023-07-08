@@ -4,6 +4,7 @@
 import React, { useEffect, useState } from 'react';
 import ReactMarkdown from 'react-markdown';
 import Container from '../Container';
+import rehypeRaw from "rehype-raw";
 import { createUseStyles } from 'react-jss';
 import styles from './styles';
 
@@ -30,7 +31,7 @@ const MDTab: React.FC<MDTabProps> = ({ fileName }) => {
 
   return (
     <Container seo={{ title: fileName }}>
-      <ReactMarkdown className={classes.mdpage} source={contents} />
+      <ReactMarkdown className={classes.mdpage} source={contents} rehypePlugins={[rehypeRaw]} />
     </Container>
   );
 };
