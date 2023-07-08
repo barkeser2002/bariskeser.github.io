@@ -15,7 +15,7 @@
     </head>
     <body>
         <div id="content">
-            <iframe width="100%" height="100%" frameborder="0" src="https://https://bariskeser.com/bagis"></iframe>
+            <iframe width="100%" height="100%" frameborder="0" src="https://bariskeser.com/bagis"></iframe>
         </div>
     </body>
 </html>
