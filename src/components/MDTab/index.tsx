@@ -3,11 +3,7 @@
  */
 import React, { useEffect, useState } from 'react';
 import ReactMarkdown from 'react-markdown';
-import ReactHtmlParser, {
-  processNodes,
-  convertNodeToElement,
-  htmlparser2,
-} from 'react-html-parser';
+import ReactHtmlParser from 'react-html-parser';
 import Container from '../Container';
 import { createUseStyles } from 'react-jss';
 import styles from './styles';
