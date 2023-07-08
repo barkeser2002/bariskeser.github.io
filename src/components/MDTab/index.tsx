@@ -4,7 +4,7 @@
 import React, { useEffect, useState } from 'react';
 import ReactMarkdown from 'react-markdown';
 import Container from '../Container';
-import rehypeRaw from "rehype-raw";
+import RenderHtml from 'react-native-render-html';
 import { createUseStyles } from 'react-jss';
 import styles from './styles';
 
@@ -31,7 +31,7 @@ const MDTab: React.FC<MDTabProps> = ({ fileName }) => {
 
   return (
     <Container seo={{ title: fileName }}>
-      {contents}
+        <RenderHtml contentWidth={width} source={source} />{contents}
     </Container>
   );
 };
