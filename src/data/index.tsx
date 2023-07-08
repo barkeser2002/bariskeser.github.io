@@ -57,7 +57,7 @@ export const tabs: TabLink[] = [
     mdFileName: 'status',
   },
   {
-    name: 'bagis.jar',
+    name: 'bagis.pack',
     url: '/status',
     icon: ['fab', 'npm'],
     color: green,
