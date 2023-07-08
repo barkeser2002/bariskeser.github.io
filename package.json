@@ -52,11 +52,11 @@
     "react-helmet": "^6.1.0",
     "react-jss": "^10.8.2",
     "react-markdown": "^4.3.1",
+    "react-native": "^0.72.1",
+    "react-native-render-html": "*",
     "react-scripts": "3.4.1",
     "react-tooltip": "^4.2.21",
-    "typed.js": "^2.0.12",
-    "react-native": "*",
-    "react-native-render-html": "*"
+    "typed.js": "^2.0.12"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.14.1",
@@ -79,11 +79,10 @@
     "husky": "^4.3.8",
     "lint-staged": "^10.5.4",
     "prettier": "^2.4.1",
+    "react-native-render-html": "*",
     "ts-node": "^9.1.1",
     "ts-node-dev": "^1.1.8",
-    "typescript": "^3.9.10",
-    "react-native": "*",
-    "react-native-render-html": "*"
+    "typescript": "^3.9.10"
   },
   "browserslist": {
     "production": [
