@@ -58,7 +58,7 @@ export const tabs: TabLink[] = [
   },
   {
     name: 'bagis.pack',
-    url: '/status',
+    url: '/bagis',
     icon: ['fab', 'npm'],
     color: green,
     mdFileName: 'bagis',
