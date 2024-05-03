@@ -29,11 +29,7 @@ const MDTab: React.FC<MDTabProps> = ({ fileName }) => {
     loadFile();
   }, [fileName]);
 
-  return (
-    <Container seo={{ title: fileName }}>
-      <div> {ReactHtmlParser(contents)} </div>
-    </Container>
-  );
+  return <Container seo={{ title: fileName }}>{contents};</Container>;
 };
 
 export default MDTab;
