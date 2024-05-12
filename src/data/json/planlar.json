@@ -42,19 +42,6 @@
           ]
         },
         {
-          "courseName": "Film Website'mi full bitirmek (bitti https://baboflix.xyz)",
-          "sections": [
-            {
-              "title": "baboflix.xyz",
-              "url": "https://baboflix.xyz",
-              "progress": {
-                "completed": 12,
-                "total": 12
-              }
-            }
-          ]
-        },
-        {
           "courseName": "Bakım sitemi düzgünleştirmek (bitti)",
           "sections": [
             {
@@ -70,41 +57,12 @@
       ]
     },
     {
-      "name": "İleriye dönük planlar",
+      "name": "Şahsi planlarım",
       "dates": {
-        "start": "2022-01-01",
-        "end": "2024-01-20"
+        "start": "2024-01-01",
+        "end": "2026-01-01"
       },
       "courses": [
-        {
-          "courseName": "shop.bariskeser.com",
-          "sections": [
-            {
-              "title": "Websitesini bütünüyle satış için kullanmak",
-              "url": "https://shop.bariskeser.com",
-              "progress": {
-                "completed": 2,
-                "total": 10
-              }
-            },
-            {
-              "title": "Tamamıyla tema işlevlerini değiştirerek sıfırdan yapmak",
-              "url": "https://shop.bariskeser.com",
-              "progress": {
-                "completed": 0,
-                "total": 10
-              }
-            },
-            {
-              "title": "Hizmete sunmak",
-              "url": "https://shop.bariskeser.com",
-              "progress": {
-                "completed": 0,
-                "total": 10
-              }
-            }
-          ]
-        },
         {
           "courseName": "Hayatımdaki Öncelikleri Değiştirmek.",
           "sections": [
@@ -112,7 +70,7 @@
               "title": "İş hayatına girip, düzene oturtmak.",
               "url": "https://new.bariskeser.com",
               "progress": {
-                "completed": 4,
+                "completed": 10,
                 "total": 12
               }
             }
