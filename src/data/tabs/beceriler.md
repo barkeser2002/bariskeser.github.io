@@ -8,7 +8,7 @@
 
 - Modern zamanlarda:
   - Python (4+ Yıl)
-  - JavaScript/TypeScript (3+ Yıl)
+  - JavaScript/TypeScript (4+ Yıl)
     - React.js
     - Node.js
     - MongoDB
@@ -16,7 +16,7 @@
 - Antik çağlarda:
   - Java (4+ Yıl)
   - C#/.NET (3+ Ay)
-  - PHP/MySQL (~5 Yıl)
+  - PHP/MySQL (6+ Yıl)
   - Ruby (2+ Yıl)
 
 ### Tercihlerim 🙏
@@ -29,5 +29,4 @@
 
 - Oyun oynamak 🚴‍♂️
 - Müzik dinlemek 🎧
-- Girişimcilik 👨🏻‍💻
 - Film İzlemek 🎥
